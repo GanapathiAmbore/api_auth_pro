@@ -1,6 +1,6 @@
 Django==2.2.3
 django-hashers-passlib==0.4
-djangorestframework==3.10.0
+djangorestframework==3.11.2
 passlib==1.7.1
 python-mimeparse==1.6.0
 pytz==2019.1
